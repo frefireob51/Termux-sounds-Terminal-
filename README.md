@@ -16,7 +16,6 @@ Fully configurable via Bash scripts
 
 
 Perfect for terminal customization, learning Bash scripting, and adding a hacker vibe to your Android terminal.
-<p align="center"><img src="Gullkhan/logo5.png"></p>
 
 ### 🌿 Termux Music Boot & Command Sound (Android)
 Customize your Termux Android terminal with music on startup and sound after every command.
