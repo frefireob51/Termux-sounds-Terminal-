@@ -100,13 +100,43 @@ howareyou.mp3 for startup sound
 
 sound.mp3 for command sound
 
-### 🔊 Test Command
+### 🔊 Sound Test Command
 
-To test the command sound:
-
-mpv --no-terminal /data/data/com.termux/files/home/storage/sound.mp3
+If an .mp3 file exists in the following directory:
 
 If you hear the sound → setup is correct ✅
+```
+cd data/data/com.termux/files/home/storage
+```
+then the sound system is correctly set up and audio will play when you run this command:
+```
+mpv --no-terminal /data/data/com.termux/files/home/storage/sound.mp3
+```
+✅ What This Means
+
+If you hear sound → MPV is installed and working
+
+The file path is correct
+
+Termux has access to storage
+
+Your command sound feature will work properly
+
+
+⚠️ Important Notes
+
+The file must exist in the directory
+
+The file name must be exactly sound.mp3
+
+Only .mp3 format is supported
+
+
+If no sound plays, check:
+
+MPV installation (pkg install mpv)
+
+Storage permission (termux-setup-storage)
 
 
 
