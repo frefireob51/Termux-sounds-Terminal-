@@ -23,12 +23,32 @@ This setup uses mpv to play MP3 files stored in your Termux storage directory.
 ### 1️⃣ Update package lists
 Fetches the latest list of available packages and versions.
 Does not upgrade packages yet.
+
+### 📁 Termux Storage Commands
+Grant Storage Permission
+Before accessing storage, you need permission:
+```
+termux-setup-storage
+```
+2️⃣ Navigate to Storage
+```
+ cd ~/storage
+
 ```
 pkg update
 ```
-
+### 2️⃣ Upgrade installed packages
+```
+pkg upgrade 
+```
+### 3️⃣ Update and upgrade in one go (automatic yes)
+```
+pkg update -y && pkg upgrade -y
+```
 ### 📁 Music Path
-apt update 
+```
+cd /data/data/com.termux/files/home/storage
+``` 
 
 ### Command for Termux 
 ```
