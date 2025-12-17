@@ -23,16 +23,16 @@ This setup uses mpv to play MP3 files stored in your Termux storage directory.
 ### 1️⃣ Update package lists
 Fetches the latest list of available packages and versions.
 Does not upgrade packages yet.
-
+```
+pkg update && pkg upgrade
+```
 ### 📁 Termux Storage Commands
 Grant Storage Permission
 Before accessing storage, you need permission:
 ```
 termux-setup-storage
 ```
-```
-pkg update && pkg upgrade
-```
+
 ### ⚡ Install MPV for Termux Sound Playback
 
 To enable startup and command sounds in Termux, you need the MPV media player.
