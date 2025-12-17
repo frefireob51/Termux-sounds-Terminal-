@@ -54,7 +54,7 @@ All sound files must be placed in this directory:
 
 🟢 When Termux starts, text is displayed letter by letter and this sound is played:
 
-howareyou.mp3
+Howareyou 
 
 ✔ Used for startup typing animation
 ✔ Plays automatically when Termux launches
