@@ -105,7 +105,7 @@ sound.mp3 for command sound
 If an .mp3 file exists in the following directory:
 
 ```
-cd data/data/com.termux/files/home/storage
+cd /data/data/com.termux/files/home/storage
 ```
 then the sound system is correctly set up and audio will play when you run this command:
 ```
