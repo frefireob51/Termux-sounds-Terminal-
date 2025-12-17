@@ -113,9 +113,3 @@ If you hear the sound → setup is correct ✅
 ```
 nano ~/.bashrc
 ```
-### Command for Kali Linux 
-```
-nano ~/.zshrc
-```
-###  
-```
