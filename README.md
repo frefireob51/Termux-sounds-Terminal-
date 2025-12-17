@@ -33,14 +33,71 @@ termux-setup-storage
 ```
 pkg update && pkg upgrade
 ```
-### 📁 Music Path
+### 🔐 Sound Rules for Termux Startup & Commands
 
-/data/data/com.termux/files/home/storage 👇
+Please follow these rules carefully to ensure sounds work properly in Termux.
 
- howareyou.mp3
 
-sound.mp3
-```
+---
+
+### 📂 Required Sound Directory
+
+All sound files must be placed in this directory:
+
+/data/data/com.termux/files/home/storage
+
+⚠️ Do not change this directory, otherwise sounds will not work.
+
+### 🎧 Sound Files & Purpose
+
+1️⃣ Termux Startup Typing Sound
+
+🟢 When Termux starts, text is displayed letter by letter and this sound is played:
+
+howareyou.mp3
+
+✔ Used for startup typing animation
+✔ Plays automatically when Termux launches
+
+2️⃣ Command Enter Sound
+
+### 🔊 When you press Enter after any command, this sound is played:
+For example ls,cd,mv,etc any cmd
+
+
+✔ Plays on every command execution
+
+### 📛 File Naming Rules (Very Important)
+
+✔ File names must match exactly
+✔ Use lowercase letters only
+✔ Extension must be .mp3
+
+❌ Do not rename the files
+❌ Do not use capital letters
+❌ Do not add extra spaces
+
+### 🔁 Replace With Your Own Sounds
+
+You can use your own MP3 files, just follow the rules:
+
+Place your MP3s in the correct directory
+
+Rename them to:
+
+howareyou.mp3 for startup sound
+
+sound.mp3 for command sound
+
+### 🔊 Test Command
+
+To test the command sound:
+
+mpv --no-terminal /data/data/com.termux/files/home/storage/sound.mp3
+
+If you hear the sound → setup is correct ✅
+
+
 
 ### Command for Termux 
 ```
