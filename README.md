@@ -175,16 +175,5 @@ PROMPT_COMMAND="play_sound_after_command"
 [![YouTube](https://img.shields.io/badge/YouTube-🔥TermuxMastery🔥-ff0000?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://youtube.com/@termuxmastery?si=U8LvcGiAJZES7YHE)
 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150">
-  <text x="50%" y="50%" font-size="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle">
-    <tspan fill="red">G</tspan>
-    <tspan fill="orange">U</tspan>
-    <tspan fill="yellow">L</tspan>
-    <tspan fill="green">L</tspan>
-    <tspan fill="blue"> </tspan>
-    <tspan fill="indigo">K</tspan>
-    <tspan fill="violet">H</tspan>
-    <tspan fill="pink">A</tspan>
-    <tspan fill="cyan">N</tspan>
-  </text>
-</svg>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMTUwIj4KICA8dGV4dCB4PSI1MCUiIHk9IjUwJSIgZm9udC1zaXplPSI4MCIgZm9udC1mYW1pbHk9IkFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIj4KICAgIDx0c3BhbiBmaWxsPSJyZWQiPkc8L3RzcGFuPgogICAgPHRzcGFuIGZpbGw9Im9yYW5nZSI+dTwvdHNwYW4+CiAgICA8dHNwYW4gZmlsbD0ieWVsbG93Ij5sPC90c3Bhbj4KICAgIDx0c3BhbiBmaWxsPSJncmVlbiI+bDwvdHNwYW4+CiAgICA8dHNwYW4gZmlsbD0iYmx1ZSI+azwvdHNwYW4+CiAgICA8dHNwYW4gZmlsbD0iaW5kaWdvIj5oPC90c3Bhbj4KICAgIDx0c3BhbiBmaWxsPSJ2aW9sZXQiPmE8L3RzcGFuPgogICAgPHRzcGFuIGZpbGw9InBpmsi+bjwvdHNwYW4+CiAgPC90ZXh0Pgo8L3N2Zz4=
+" alt="Gullkhan Colorful" width="600">
