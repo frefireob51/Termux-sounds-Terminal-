@@ -172,6 +172,9 @@ function play_sound_after_command() {
 PROMPT_COMMAND="play_sound_after_command"
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=2000&pause=200&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8F00FF&center=true&vCenter=true&width=700&height=100&lines=Gullkhan" alt="Gullkhan RGB Rainbow" />
-</p>
+Welcome to **TermuxMastery** — your destination for mastering Termux from
+🔹 Zero to Advanced  
+🔹 Useful Termux commands  
+🔹 Real-world projects and tutorials  
+🔹 Android command-line power unleashed  
+Check out the channel here: https://youtube.com/@termuxmastery?si=U8LvcGiAJZES7YHE
