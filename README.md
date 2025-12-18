@@ -172,67 +172,17 @@ function play_sound_after_command() {
 PROMPT_COMMAND="play_sound_after_command"
 ```
 
-
 <p align="center">
-<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Neon Glow -->
-    <filter id="neon">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <!-- Cyber Flicker -->
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      dur="0.08s"
-      repeatCount="indefinite"
-      values="0 0;2 -1;-2 1;0 0"/>
-
-    <!-- RGB Shift -->
-    <filter id="rgbShift">
-      <feColorMatrix type="hueRotate">
-        <animate attributeName="values"
-          from="0" to="360"
-          dur="2s"
-          repeatCount="indefinite"/>
-      </feColorMatrix>
-    </filter>
-  </defs>
-
-  <!-- Background scan line -->
-  <rect width="100%" height="100%" fill="black" opacity="0.85"/>
-
-  <!-- Red layer -->
-  <text x="50%" y="60%" text-anchor="middle"
-    font-size="68"
-    font-family="Orbitron, monospace"
-    fill="#FF004C"
-    filter="url(#neon)">
-    Gullkhan
-  </text>
-
-  <!-- Green glitch -->
-  <text x="50.6%" y="60.4%" text-anchor="middle"
-    font-size="68"
-    font-family="Orbitron, monospace"
-    fill="#00FF9C"
-    opacity="0.7">
-    Gullkhan
-  </text>
-
-  <!-- Blue cyber layer -->
-  <text x="49.4%" y="59.6%" text-anchor="middle"
-    font-size="68"
-    font-family="Orbitron, monospace"
-    fill="#00CFFF"
-    opacity="0.7"
-    filter="url(#rgbShift)">
-    Gullkhan
-  </text>
-</svg>
+  <img src="https://readme-typing-svg.demolab.com
+?font=Orbitron
+&size=48
+&duration=900
+&pause=200
+&color=00FFEA,00FF00,FF00FF,00FFFF,39FF14
+&center=true
+&vCenter=true
+&width=700
+&height=90
+&lines=>>+CYBER+MODE+ON+<<;GULLKHAN;TERMINAL+READY;WELCOME+HACKER"
+  />
 </p>
