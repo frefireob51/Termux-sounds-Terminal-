@@ -175,3 +175,10 @@ PROMPT_COMMAND="play_sound_after_command"
 [![YouTube](https://img.shields.io/badge/YouTube-🔥TermuxMastery🔥-ff0000?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://youtube.com/@termuxmastery?si=U8LvcGiAJZES7YHE)
 
 
+
+![Red](https://img.shields.io/badge/Termux-Red-red?style=for-the-badge&logo=appveyor)
+![Orange](https://img.shields.io/badge/Termux-Orange-orange?style=for-the-badge&logo=appveyor)
+![Yellow](https://img.shields.io/badge/Termux-Yellow-yellow?style=for-the-badge&logo=appveyor)
+![Green](https://img.shields.io/badge/Termux-Green-green?style=for-the-badge&logo=appveyor)
+![Blue](https://img.shields.io/badge/Termux-Blue-blue?style=for-the-badge&logo=appveyor)
+![Purple](https://img.shields.io/badge/Termux-Purple-purple?style=for-the-badge&logo=appveyor)
