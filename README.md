@@ -173,5 +173,60 @@ PROMPT_COMMAND="play_sound_after_command"
 ```
 
 <p align="center">
-  <img src="https://github-readme-text-animation.vercel.app/api?text=Gullkhan&color=00FF00&speed=3&glitch=true" />
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- RGB Flicker Animation -->
+    <filter id="rgbFlicker">
+      <feColorMatrix type="matrix" values="
+        1 0 0 0 0
+        0 0 0 0 0
+        0 0 0 0 0
+        0 0 0 1 0">
+        <animate attributeName="values"
+          dur="0.15s"
+          repeatCount="indefinite"
+          values="
+          1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0;
+          0 1 0 0 0  1 0 0 0 0  0 0 1 0 0  0 0 0 1 0;
+          0 0 1 0 0  0 1 0 0 0  1 0 0 0 0  0 0 0 1 0
+          " />
+      </feColorMatrix>
+    </filter>
+
+    <!-- Glitch Shake -->
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      dur="0.1s"
+      repeatCount="indefinite"
+      values="0 0; -2 1; 2 -1; 0 0"/>
+  </defs>
+
+  <!-- Red Layer -->
+  <text x="50%" y="60%" text-anchor="middle"
+        font-size="64"
+        font-family="Orbitron, monospace"
+        fill="#FF0000"
+        filter="url(#rgbFlicker)">
+    Gullkhan
+  </text>
+
+  <!-- Green Offset -->
+  <text x="50.5%" y="60.5%" text-anchor="middle"
+        font-size="64"
+        font-family="Orbitron, monospace"
+        fill="#00FF00"
+        opacity="0.8">
+    Gullkhan
+  </text>
+
+  <!-- Blue Offset -->
+  <text x="49.5%" y="59.5%" text-anchor="middle"
+        font-size="64"
+        font-family="Orbitron, monospace"
+        fill="#00FFFF"
+        opacity="0.8">
+    Gullkhan
+  </text>
+</svg>
 </p>
