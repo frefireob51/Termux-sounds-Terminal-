@@ -175,8 +175,8 @@ PROMPT_COMMAND="play_sound_after_command"
 [![YouTube](https://img.shields.io/badge/YouTube-🔥TermuxMastery🔥-ff0000?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://youtube.com/@termuxmastery?si=U8LvcGiAJZES7YHE)
 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="100">
-  <text x="10" y="70" font-size="60" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150">
+  <text x="50%" y="50%" font-size="80" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle">
     <tspan fill="red">G</tspan>
     <tspan fill="orange">U</tspan>
     <tspan fill="yellow">L</tspan>
@@ -188,7 +188,3 @@ PROMPT_COMMAND="play_sound_after_command"
     <tspan fill="cyan">N</tspan>
   </text>
 </svg>
-
-
-
-<img src="gullkhan.svg" alt="GULL KHAN Colorful">
