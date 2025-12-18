@@ -173,5 +173,5 @@ PROMPT_COMMAND="play_sound_after_command"
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=1200&pause=300&colors=FF0000,00FF00,0000FF,FF00FF,00FFFF,FFFF00&center=true&vCenter=true&width=600&height=80&lines=Gullkhan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=2000&pause=200&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8F00FF&center=true&vCenter=true&width=700&height=100&lines=Gullkhan" alt="Gullkhan RGB Rainbow" />
 </p>
