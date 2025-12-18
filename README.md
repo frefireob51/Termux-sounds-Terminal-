@@ -37,7 +37,7 @@ pkg update && pkg upgrade
 ### ⚡ Install MPV for Termux Sound Playback
 
 To enable startup and command sounds in Termux, you need the MPV media player.
-2️⃣ Install MPV
+ Install MPV
 
 Run this command in Termux:
 ```
