@@ -183,5 +183,5 @@ Feel free to contribute or open issues for help.
 
 Email: gullkhan@example.com
 
-GitHub: Gullkhan
+
 
