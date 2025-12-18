@@ -173,5 +173,5 @@ PROMPT_COMMAND="play_sound_after_command"
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Gullkhan&fontColor=FF0000&fontSize=60&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=1500&pause=300&color=FF0000,00FF00,0000FF,FF00FF,00FFFF,FFFF00&center=true&vCenter=true&width=600&height=80&lines=Gullkhan" />
 </p>
